@@ -155,10 +155,6 @@ public class MainActivity extends AppCompatActivity {
                             resultDialog.setArguments(bundle);
                             resultDialog.setCancelable(true);
                             resultDialog.show(getSupportFragmentManager(), LCOFaceDetection.RESULT_DIALOG);
-
-
-
-
                         }
                     })
                     .addOnFailureListener(e -> {
