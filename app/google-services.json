@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656500140395",
+    "project_id": "facedetection-eaf73",
+    "storage_bucket": "facedetection-eaf73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656500140395:android:7b775faf24efa31577842e",
+        "android_client_info": {
+          "package_name": "com.kehuldroid.facedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjq2oA3Nb9DV1tO9l0JfE26BAUKFsV_qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
